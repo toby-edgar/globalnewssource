@@ -1,0 +1,26 @@
+{
+  "name": "formative3.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toby Edgar",
+  "license": "ISC",
+  "devDependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "grunt": "^1.4.1",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-htmllint": "^0.3.0",
+    "jquery": "^3.6.0"
+  },
+  "dependencies": {
+    "newsapi": "^2.4.1"
+  }
+}
